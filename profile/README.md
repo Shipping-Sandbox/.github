@@ -9,7 +9,7 @@ Small products, built fast and put live. Everything below is deployed, so you ca
 | Project | What it is | Status | Live |
 | --- | --- | --- | --- |
 | [ISM Connect](https://github.com/Shipping-Sandbox/ISM-Mobile) | A campus companion for IIT (ISM) Dhanbad students. Timetable, grades, mess menu, notices, library, shuttle and campus map in one mobile-friendly app, instead of WhatsApp groups and PDFs | Early build, running on sample data | [Open](https://dhanbad.vercel.app/) |
-| [Upskill](https://github.com/Shipping-Sandbox/upskill) | Daily learning paths across AI, finance, product, communication and habits. Short lessons, guided practice and a real project at the end of each path | Live | [Open](https://skillmeup.framer.ai) |
+| [Upskill](https://github.com/Shipping-Sandbox/upskill) | Daily learning paths across AI, finance, product, communication and habits. Short lessons, guided practice and a real project at the end of each path | Live | [Open](https://skillmeup.framer.ai)) |
 | [Meridian](https://github.com/Shipping-Sandbox/meridian-coaching-erp) | An ERP for coaching institutes covering admissions, academics, faculty, finance and analytics | Prototype | [Open](https://coaching-erp.bolt.host) |
 
 ## Learn AI by doing
